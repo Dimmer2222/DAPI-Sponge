@@ -1,2 +1,2 @@
 # DLIB-Sponge
-This is a modified Version of the DLIB for compatible with the SpongeAPI it will contains .patch Files to patch the DAPI to make it compatible with the Sponge-API.
+This is a modified Version of the DLIB for compatible with the SpongeAPI.
